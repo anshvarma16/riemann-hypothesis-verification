@@ -13,11 +13,7 @@ This repository contains Python code to verify the Riemann Hypothesis using symb
 
 ## Getting Started
 
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/riemann-hypothesis-verification.git
-```
+1. Download the code to your local machine
 
 2. Ensure you have Python 3.x installed along with required libraries (SymPy, mpmath, NumPy, and Matplotlib).
 
